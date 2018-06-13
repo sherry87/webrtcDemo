@@ -1,8 +1,10 @@
 
-##WebRtcDEMO
+###WebRtcDEMO
+
 webrtc SDP数据交换及建立链接DEMO.其中server.js 是信令服务器。
 
-##运行
+###运行
+
 分别运行index.js,server.js
 ```
 	node index.js
@@ -17,5 +19,6 @@ webrtc SDP数据交换及建立链接DEMO.其中server.js 是信令服务器。
 ```
 	http://127.0.0.1:8888/index2.html
 ```
-##流程图
+###流程图
+
 ![流程图](webrtc Demo.png)
